@@ -23,5 +23,8 @@
 			"Name": "ExampleAssetEditor",
 			"Enabled": true
 		}
+	],
+	"TargetPlatforms": [
+		"WindowsNoEditor"
 	]
 }
